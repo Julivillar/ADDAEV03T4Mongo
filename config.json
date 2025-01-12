@@ -1,0 +1,13 @@
+{
+    "user": "AEV03Mongo",
+    "pwd": "ADDMongo",
+    "IP": "localhost",
+    "port": "27017",
+    "database": "casino",
+    "collections": {
+        "cards_es": "cards_es",
+        "cards_fr": "cards_fr",
+        "scores": "scores",
+        "users": "users"
+    }
+}
